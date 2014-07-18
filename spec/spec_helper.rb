@@ -1,2 +1,2 @@
-require "lita-catgif"
+require "lita-makeitrain"
 require "lita/rspec"
